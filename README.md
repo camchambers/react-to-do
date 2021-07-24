@@ -1,2 +1,2 @@
 # React To Do List
-A simple React todo list
+A simple to do list created with React. 
