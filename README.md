@@ -6,7 +6,6 @@
 * npm
 
 ## How to Run
-
 * Change into the project directory
-* Download dependencies using the command "npm install"
+* Download dependencies using "npm install"
 * Run the app using "npm start"
