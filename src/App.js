@@ -3,6 +3,7 @@ import React, { useState, useRef, useEffect } from "react";
 import Form from "./components/Form";
 import FilterButton from "./components/FilterButton";
 import Todo from "./components/Todo";
+import "./index.css";
 
 function usePrevious(value) {
   const ref = useRef();
@@ -85,7 +86,7 @@ function App(props) {
     }
   }, [tasks.length, prevTaskLength]);
   return (
-    <div className="todoapp stack-large">
+    <div className="todoapp stack-large" style={{ backgroundImage: "url(/images/background.jpg)" }}>
       <h1>To Do List</h1>
       <Form addTask={addTask}/>
       <div className="filters btn-group stack-exception">
