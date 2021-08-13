@@ -1,8 +1,6 @@
 # React To Do List
 > A simple React to do list. 
 
-![Home.png](/screenshot.jpg?raw=true "screenshot")
-
 ## Dependencies
 * Node.js
 * npm
