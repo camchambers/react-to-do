@@ -3,7 +3,7 @@
 
 ## Dependencies
 * Node.js
-* npm
+* yarn/npm
 
 ## How to Run
 * Change into the project directory
