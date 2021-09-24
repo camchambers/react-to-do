@@ -1,7 +1,7 @@
 # React To Do List
 > A simple React to do list. 
 
-## Dependencies
+## Requirements
 * Node.js
 * yarn/npm
 
